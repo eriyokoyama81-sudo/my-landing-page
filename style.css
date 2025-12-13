@@ -220,6 +220,7 @@ img {
 .hero-btns {
     display: flex;
     gap: 1rem;
+    align-items: center;
 }
 
 .hero-image img {
