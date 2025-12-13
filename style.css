@@ -223,6 +223,17 @@ img {
     align-items: center;
 }
 
+.hero-btns .btn {
+    height: 36px;
+    padding: 0 1rem;
+    font-size: 13px;
+    /* Approximate size of LINE button text */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 1;
+}
+
 .hero-image img {
     border-radius: var(--border-radius);
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
